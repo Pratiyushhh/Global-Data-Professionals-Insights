@@ -55,15 +55,15 @@ Analyze comprehensive survey data from global data professionals to provide **HR
 ## 📸 **Executive Dashboard Overview**
 
 ### **🏠 Strategic Workforce Intelligence Center**
-![Home Overview](./Screenshots/Home.jpg)
+![Executive Overview](./Screenshots/executive_overview.jpg)
 *Executive KPIs: Average age 29.87, gender distribution, happiness indices, and strategic workforce metrics*
 
 ### **💰 Compensation Benchmarking Intelligence**  
-![Salary Analysis](./Screenshots/Salary.jpg)
+![Salary Analysis](./Screenshots/salary_trends.jpg)
 *Role-based salary analysis: Data Scientist ($94K), geographic variations, education impact, and programming language value*
 
 ### **🧠 Career Strategy & Satisfaction Insights**  
-![Strategic Takeaways](./Screenshots/Key%20Takeaways.jpg)
+![Strategic Takeaways](./Screenshots/key_takeaways.jpg)
 *Career switcher success analysis, job satisfaction drivers, and retention strategy recommendations*
 
 ---
@@ -94,15 +94,15 @@ Analyze comprehensive survey data from global data professionals to provide **HR
 
 ```
 Global-Data-Professionals/
-├── Project.pbix      # Interactive Power BI dashboard
-├── Project.pdf       # Executive summary report  
+├── Power_BI_Report.pbix            # Interactive Power BI dashboard
+├── Report_Export.pdf               # Executive summary report  
 ├── Raw_Data.xlsx
-├── Screenshots/                        # Dashboard page previews
-│   ├── Home_Overview.jpg
-│   ├── Salary_Analysis.jpg
-│   ├── Career_Insights.jpg
-│   └── Strategic_Takeaways.jpg
-└── README.md                           # Project documentation
+├── Screenshots/                    # Dashboard page previews
+│   ├── title.jpg
+│   ├── executive_overview.jpg
+│   ├── salary_trends.jpg
+│   └── key_takeaways.jpg
+└── README.md                       # Project documentation
 ```
 
 ---
