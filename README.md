@@ -109,7 +109,7 @@ Global-Data-Professionals/
 
 ## 📥 **Dataset & Methodology**
 
-**Data Source:** [AlexTheAnalyst (GitHub)](https://github.com/AlexTheAnalyst)  
+**Data Source:** [AlexTheAnalyst (GitHub)](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)  
 **Sample Size:** 630+ validated responses from global data professionals  
 **Collection Method:** LinkedIn, Instagram, and professional platform distribution  
 **Geographic Coverage:** United States, Canada, United Kingdom, India, and 15+ additional countries  
